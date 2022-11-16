@@ -7,8 +7,7 @@ html {
 }
 
 body {
-  margin: 0;
-  font-family: "Lucida Grande";
+  font-family: 'Lucida Grande';
 }
 
 a {
@@ -136,7 +135,6 @@ header {
   visibility: hidden;
 }
 
-
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -223,7 +221,7 @@ footer .container img {
 
 .boxing {
   width: 150px;
-  background-color: grey;
+  background-color: grays;
   height: 200px;
   overflow: hidden;
   border-radius: 20px;
