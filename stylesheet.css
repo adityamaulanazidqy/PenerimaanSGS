@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 html {
@@ -85,6 +87,7 @@ a {
 }
 
 header {
+  right: 0px;
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
@@ -221,7 +224,7 @@ footer .container img {
 
 .boxing {
   width: 150px;
-  background-color: grays;
+  background-color: gray;
   height: 200px;
   overflow: hidden;
   border-radius: 20px;
