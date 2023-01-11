@@ -29,7 +29,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://www.kibrispdr.org/data/2/abstract-gaming-wallpaper-1920x1080-hd-0.jpg);
+  background-image: url(/asset/bg3.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -142,7 +142,7 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
+  background-color: #fff;
   text-align: center;
 }
 
@@ -224,7 +224,7 @@ footer .container img {
 
 .boxing {
   width: 150px;
-  background-color: gray;
+  background-color: #dfe6e9;
   height: 200px;
   overflow: hidden;
   border-radius: 20px;
